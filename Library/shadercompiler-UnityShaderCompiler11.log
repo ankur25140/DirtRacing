@@ -1,0 +1,86 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.4.10f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.4.10f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: translateComputeKernel
+  api=14 insize=9901 outsize=16826 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=7960 outsize=2847 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2761 outsize=2677 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=9919 outsize=3959 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=9919 outsize=2923 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2923 outsize=4020 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3420 outsize=4771 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=47665 outsize=6745 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=47665 outsize=4184 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=47665 outsize=2952 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3322 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3053 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3054 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3756 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=4658 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3919 outsize=4327 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3999 outsize=4188 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=4203 outsize=4778 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=68835 outsize=15416 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=2335 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=2103 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=1851 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=2467 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=3117 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=3027 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2087 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2231 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2153 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2855 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2707 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2735 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2509 outsize=2372 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2245 outsize=1969 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2901 outsize=3218 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=31899 outsize=8584 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5776 outsize=8817 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=4119 outsize=3662 ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=1554 outsize=3533 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH _EMISSION pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=1919 outsize=1817 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=4008 outsize=14022 kw=FXAA_LOW pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=6841 outsize=6231 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=1554 outsize=3183 kw=UNITY_PASS_DEFERRED LIGHTPROBE_SH UNITY_HDR_ON pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1

@@ -1,0 +1,87 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.4.10f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.4.10f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: translateComputeKernel
+  api=14 insize=9375 outsize=16177 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=7960 outsize=3393 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3214 outsize=3371 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=9919 outsize=3959 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=9919 outsize=2923 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2923 outsize=4016 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=47665 outsize=3097 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=47665 outsize=2948 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=47665 outsize=3011 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=47665 outsize=4470 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=47665 outsize=5254 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3067 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3064 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3107 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3906 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=12936 outsize=22171 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Tensor.cginc(155): use of potentially uninitialized variable (ReadonlyTensor::SafeGet)
+  api=14 insize=68835 outsize=13769 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=1751 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=1987 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=1912 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=2930 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=29386 outsize=2932 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2148 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2286 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2172 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2248 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2717 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2682 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2253 outsize=1973 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2598 outsize=2493 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2406 outsize=2241 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=3052 outsize=3432 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2843 outsize=3126 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2860 outsize=3149 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=31899 outsize=12312 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=4119 outsize=3185 ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=1302 outsize=539 kw=UNITY_PASS_SHADOWCASTER SHADOWS_DEPTH INSTANCING_ON pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=1224 outsize=1622 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=1919 outsize=1817 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=7040 outsize=7078 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=0 insize=2295 outsize=1778 kw= pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=2104 outsize=5087 kw=DIRECTIONAL SHADOWS_SCREEN UNITY_HDR_ON pd=UNITY_NO_DXT5nm UNITY_ENABLE_REFLECTION_BUFFERS UNITY_NO_CUBEMAP_ARRAY UNITY_NO_SCREENSPACE_SHADOWS UNITY_PBS_USE_BRDF2 SHADER_API_DESKTOP UNITY_HARDWARE_TIER3 UNITY_COLORSPACE_GAMMA UNITY_LIGHTMAP_DLDR_ENCODING ok=1
